@@ -1,0 +1,33 @@
+.a4ll
+{
+    position: absolute;
+    left: 5%;
+    top: 20px;
+    width: 700px;
+    height: 600px
+}
+.btn-danger
+{
+    width: 100%
+}
+.form-label
+{
+    position: absolute;
+    left: 35%;
+}
+.btn-primary
+{
+    width: 300px;
+}
+.btn-info
+{
+    width: 300px;
+    position: relative;
+    left: 100px;
+}
+.btn-link
+{
+    position: relative;
+    left: 60%;
+    top: -9px;
+}

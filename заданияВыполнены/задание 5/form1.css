@@ -1,0 +1,29 @@
+.bdy
+{
+    text-align: left;
+}
+.stfrm
+{
+    position: relative;
+    left: 1%;
+    top: 50px;
+    width: 600px;
+}
+.form-control
+{
+    height: 50px;
+    width: 600px;
+    font-size: 30px;
+}
+#forg
+{
+    padding-left: 345px;
+}
+.btn
+{
+    box-shadow: 50px black;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    left: 200px;
+}

@@ -1,0 +1,80 @@
+.a4ll
+{
+    position: absolute;
+    left: 5%;
+    top: 20px;
+    width: 650px;
+    height: 600px;
+    background-color: rgb(245, 245, 245);
+}
+.stfrm
+{
+    position: relative;
+    left: 25px;
+    width: 600px;
+    height: 600px;
+}
+.form-control
+{
+    height: 50px;
+    width: 600px;
+    font-size: 30px;
+}
+.btn
+{
+    width: 600px;
+}
+#day
+{
+    position: absolute;
+    width: 100px;
+}
+#month
+{
+    position: absolute;
+    width: 100px;
+    left: 250px;
+}
+#year
+{
+    position: relative;
+    width: 100px;
+    left: 500px;
+}
+#area
+{
+    height: 200px;
+}
+#typ
+{
+    position: absolute;
+    width: 200px;
+}
+#who
+{
+    position: relative;
+    left: 400px;
+    width: 200px;
+}
+#img
+{
+    position: relative;
+    top: 20px;
+    left: 0px;
+}
+#title
+{
+    position: relative;
+    top: 0px;
+    left: 70px;
+}
+
+#img
+{
+    width: 70px;
+    height: 59px;
+}
+#de
+{
+    font-size: 20px;
+}

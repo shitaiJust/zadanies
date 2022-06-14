@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="form2.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    
+    <title>Form 2</title>
+</head>
+<body>
+  <div class="a4ll">
+    <div class="stfrm"><br>
+       <p id = "title" class="fw-bold" class="fs-2">Bootstrap Тема</p>
+      <hr id="hr">
+        <form id = "frm1">
+            <div class="mb-3">
+              <input type="email" class="form-control" aria-describedby="Ваше имя" placeholder="Ваше имя">
+            </div>
+            <div class="mb-3">
+              <textarea id="area" class="form-control" placeholder="Текст сообщения"></textarea>
+            </div>
+            <h2 id="de">Дата отправки</h2>
+          </form>
+        <div class = "frm2">
+          <select id="day" class="form-select form-select-sm" aria-label=".form-select-sm пример">
+            <option selected>День</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+          </select>
+          <select id="month" class="form-select form-select-sm" aria-label=".form-select-sm пример">
+            <option selected>Месяц</option>
+            <option value="1">Сентябрь</option>
+            <option value="2">Март</option>
+            <option value="3">Июнь</option>
+          </select>
+          <select id="year" class="form-select form-select-sm" aria-label=".form-select-sm пример">
+            <option selected>Год</option>
+            <option value="1">1997</option>
+            <option value="2">2003</option>
+            <option value="3">2021</option>
+          </select>
+          <h2 id="de">Дополнительно</h2>
+          <select id="typ" class="form-select form-select-sm" aria-label=".form-select-sm пример">
+            <option selected>Тип обращения</option>
+            <option value="1">Отзыв</option>
+            <option value="2">Предложение</option>
+          </select>
+          <select id="who" class="form-select form-select-sm" aria-label=".form-select-sm пример">
+            <option selected>Кто Вы</option>
+            <option value="1">Мужчина</option>
+            <option value="2">Женщина</option>
+          </select>
+        </div>
+        <br>
+        <button type="button" class="btn btn-primary">Отправить</button>
+    </div>
+  </div>
+</body>
+</html>

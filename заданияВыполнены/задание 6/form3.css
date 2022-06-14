@@ -1,0 +1,71 @@
+.bg
+{
+    position: absolute;
+    width: 600px;
+    height: 500px;
+    top: 20px;
+    left: 0%;
+}
+.base
+{
+    position: relative;
+    top: 40px;
+    left: 100px;
+    width: 400px;
+    height: 350px;
+}
+.form-checks
+{
+    position: relative;
+}
+#text
+{
+    border-top: 0px;
+    border-right: 0px;
+    width: 90%;
+}
+.btn
+{
+    position: relative;
+    top: -35px;
+    left: 92%;
+}
+.buts
+{
+    position: relative;
+    top: -90%;
+    left: 15%
+}
+.bt
+{
+    position: relative;
+    left: 75%;
+    border: 0px;
+    color: rgb(73, 73, 184);
+    background-color: white;
+}
+#bt2
+{
+    position: relative;
+    top: 20px;
+}
+#bt3
+{
+    position: relative;
+    top: 40px;
+}
+#bt4
+{
+    position: relative;
+    top: 60px;
+}
+#bt5
+{
+    position: relative;
+    top: 80px;
+}
+#bt6
+{
+    position: relative;
+    top: 100px;
+}

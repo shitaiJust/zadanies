@@ -1,0 +1,50 @@
+.a4ll
+{
+    position: absolute;
+    top: 50px;
+    left: 5%;
+    width: 700px;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.fs-5
+{
+    position: absolute;
+    top: 10px;
+    left: 6%;
+}
+.info
+{
+    position: relative;
+    width: 690px;
+    left: 5px; 
+    top: 5px;
+}
+.form-check-input
+{
+    position: relative;
+    left: 36%;
+}
+.form-check-label
+{
+    position: relative;
+    left: 37%;
+}
+.btn
+{
+    position: relative;
+    width: 95%;
+    left: 3%;
+}
+#name
+{
+    position: absolute;
+    width: 300px;
+}
+#lastname
+{
+    position: relative;
+    width: 300px;
+    left: 390px;
+}

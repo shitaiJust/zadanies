@@ -1,0 +1,29 @@
+.bg
+{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 10px;
+    left: 1%;
+}
+#text
+{
+    width: 200px;
+}
+.btn-primary
+{
+    top: 55px;
+    position: absolute;
+    left: 210px;
+}
+.btn-warning
+{
+    width: 120px;
+    top: 55px;
+    position: absolute;
+    left: 280px;
+}
+.col
+{
+    border: 1px solid black;
+}
